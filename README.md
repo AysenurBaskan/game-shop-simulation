@@ -36,3 +36,4 @@ Gamer registration is made according to the **Republic of Türkiye Identity Numb
 <a href="https://instagram.com/sirrikomur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sirrikomur" height="30" width="40" /></a>
 <a href="https://medium.com/@sirrikomur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sirrikomur" height="30" width="40" /></a>
 </p>
+# game-shop-simulation
